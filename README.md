@@ -4,7 +4,7 @@ This repository contains my Python practice programs while learning Python step-
 
 ## 📘 Topics Learned
 
-- Variables
+- Variables 
 - Print Statements 
 - If / Else 
 - Loops  
