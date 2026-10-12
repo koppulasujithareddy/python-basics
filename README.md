@@ -15,7 +15,7 @@ This repository contains my Python practice programs while learning Python step-
 - sum()
 - max()
 - min()
-- remove()
+- remove() 
  
 ## 📂 Programs Included
 
