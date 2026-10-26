@@ -12,7 +12,7 @@ This repository contains my Python practice programs while learning Python step-
 - Lists   
 - len() 
 - input()   
-- sum()  
+- sum()    
 - max()
 - min()
 - remove() 
