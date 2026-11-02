@@ -17,7 +17,7 @@ This repository contains my Python practice programs while learning Python step-
 - min()
 - remove() 
  
-## 📂 Programs Included
+## 📂 Programs Included  
 
 - Even or Odd Program
 - For Loop Practice
